@@ -648,6 +648,8 @@
 			<true/>
 			<key>EnableWriteUnprotector</key>
 			<true/>
+			<key>FixupAppleEfiImages</key>
+			<false/>
 			<key>ForceBooterSignature</key>
 			<false/>
 			<key>ForceExitBootServices</key>
@@ -1642,6 +1644,8 @@
 			<false/>
 			<key>HideAuxiliary</key>
 			<false/>
+			<key>InstanceIdentifier</key>
+			<string></string>
 			<key>LauncherOption</key>
 			<string>Disabled</string>
 			<key>LauncherPath</key>
@@ -1907,7 +1911,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C17613902CDHMHK1H</string>
+			<string>C17607101J9HMHKA8</string>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
@@ -1919,9 +1923,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C17RH3ZTGVC1</string>
+			<string>C17R8DY8GVC1</string>
 			<key>SystemUUID</key>
-			<string>563C166F-5F5A-4F53-B509-73182861D428</string>
+			<string>2FE17E9E-7248-442F-8D19-40C063046918</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -2249,6 +2253,8 @@
 		<dict>
 			<key>ClearScreenOnModeSwitch</key>
 			<false/>
+			<key>ConsoleFont</key>
+			<string></string>
 			<key>ConsoleMode</key>
 			<string></string>
 			<key>DirectGopRendering</key>
@@ -2318,6 +2324,8 @@
 			<false/>
 			<key>OSInfo</key>
 			<false/>
+			<key>PciIo</key>
+			<false/>
 			<key>UnicodeCollation</key>
 			<false/>
 		</dict>
@@ -2348,6 +2356,8 @@
 			<key>ResizeGpuBars</key>
 			<integer>-1</integer>
 			<key>ResizeUsePciRbIo</key>
+			<false/>
+			<key>ShimRetainProtocol</key>
 			<false/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
