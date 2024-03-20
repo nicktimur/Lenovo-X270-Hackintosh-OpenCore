@@ -1,5 +1,5 @@
-# Lenovo-X270-Hackintosh-Ventura-OpenCore-0.9.7
-Please make sure the SMBIOS is MacBookPro14,1 when installing and updating Ventura 
+# Lenovo-X270-Hackintosh-Ventura-OpenCore-0.9.9
+Please make sure the SMBIOS is MacBookPro15,2 when installing and updating to Sonoma 
 #
 This repo contains the files and scripts to install macOS on the Lenovo X270 20K5
 You need to patch your systems own DSDT 
@@ -11,6 +11,8 @@ You need to patch your systems own DSDT
 - [x] macOS 12.2
 - [x] macOS 13.0
 - [x] macOS 13.4
+- [x] macOS 14.3.1
+
 
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad X270
