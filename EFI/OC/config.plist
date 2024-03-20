@@ -1911,7 +1911,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C17607101J9HMHKA8</string>
+			<string>C17610405GUHMHKA8</string>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
@@ -1923,9 +1923,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C17R8DY8GVC1</string>
+			<string>C17RD7Z3GVC1</string>
 			<key>SystemUUID</key>
-			<string>2FE17E9E-7248-442F-8D19-40C063046918</string>
+			<string>85159F9F-7317-48C7-882F-7C8B7B3AC0D6</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
