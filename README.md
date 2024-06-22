@@ -1,4 +1,4 @@
-#I DON'T HAVE THIS LAPTOP, SO THIS REPO WILL BE DISCONTINUED
+# I DON'T HAVE THIS LAPTOP, SO THIS REPO WILL BE DISCONTINUED
 
 # Lenovo-X270-Hackintosh-Ventura-OpenCore-0.9.9
 Please make sure the SMBIOS is MacBookPro15,2 when installing and updating to Sonoma 
